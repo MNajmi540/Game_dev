@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/First_attack.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Second_attack.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Third_attack.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Fourth_attack.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_End.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_Mid.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_Start.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Combo1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Combo2.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Combo3.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Combo4.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Dodge.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Dodge_to_Combo1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy2.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy1_Start.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Animations/ARPG_Warrior_Anim_rig_Attack_Sprint.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Airborne_End.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Airborne_Mid.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Airborne_Start.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Combo1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Combo2.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Combo3.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Combo4.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Dodge.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Dodge_to_Combo1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Heavy1.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Heavy1_Start.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Heavy2.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/ARPG_Warrior_Anim_rig_Attack_Sprint.uasset"
+			]
+		}
+	]
+}
