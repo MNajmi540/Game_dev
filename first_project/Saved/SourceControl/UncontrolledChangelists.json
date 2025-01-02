@@ -115,7 +115,15 @@
 				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0S/2EJU6C95X9WVH21HA342BO.uasset",
 				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LR/IKJM4399W7MZ9BL4LQDXFJ.uasset",
 				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Weapon/tumblr_inline_ntk5rrSNoG1rhoini_540.uasset"
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ARPG_Warrior/Weapon/tumblr_inline_ntk5rrSNoG1rhoini_540.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/MainMenu/BP_GameInstance.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/MainMenu/BP_Menu.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/MainMenu/BP_Menu_GameMode.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/MainMenu/BP_Menu_Pawn.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Maps/Menu/MainMenu.umap",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/MainMenu/BP_Menu_Controller.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/Widget/WB_MainMenu.uasset",
+				"C:/Users/admin/OneDrive/Documents/Unreal Projects/first_project/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset"
 			]
 		}
 	]
